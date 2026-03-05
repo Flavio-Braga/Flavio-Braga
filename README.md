@@ -16,7 +16,7 @@
 
 - [LinkedIn: Flavio Braga](https://www.linkedin.com/in/flaviobragadesousa/)
 
-- [WhatsApp](https://www.linkedin.com/in/flaviobragadesousa/)
+- [WhatsApp](wa.me/5519987702890)
 
 </p>
 
