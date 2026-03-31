@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Flavio Braga</h1>
-<h3 align="center">A passionate back-end/QA student from Brasil</h3>
+<h3 align="center">A passionate back-end student from Brazil</h3>
 
 - 🔭 I’m currently working on [Youtube Summarizer](https://github.com/Flavio-Braga/youtube-summarizer)
 
-- 🌱 I’m currently learning **ROBOT Framework, PyTest and API's**
+- 🌱 I’m currently learning **Python, SAP and Databases**
 
-- 👯 I’m looking to collaborate on **QA and Back-end**
+- 👯 I’m looking to collaborate on **Back-end**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Flavio-Braga](https://github.com/Flavio-Braga)
 
